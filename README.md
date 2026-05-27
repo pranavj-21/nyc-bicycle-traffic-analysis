@@ -29,7 +29,7 @@ traffic, with a bar chart visualization.
 - Matplotlib
 
 ## Dataset
-NYC bicycle count data (2016) — [NYC Open Data](https://data.cityofnewyork.us)
+NYC bicycle count data (2016)
 
 ## How to run
 ```bash
